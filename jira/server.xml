@@ -56,7 +56,7 @@
                    maxThreads="150" minSpareThreads="25" connectionTimeout="20000" enableLookups="false"
                    maxHttpHeaderSize="8192" protocol="HTTP/1.1" useBodyEncodingForURI="true" redirectPort="8443"
                    acceptCount="100" disableUploadTimeout="true" bindOnInit="false" scheme="http"
-                   proxyName="172.18.0.1" proxyPort="80"/>
+                   proxyName="172.22.0.3" proxyPort="80"/>
         <!--
          ==============================================================================================================
          HTTPS - Proxying Jira via Apache or Nginx over HTTPS
