@@ -18,14 +18,14 @@ Task scope
 
 **Credentials:**
 
-JIRA user: admin
+* JIRA user: admin
   + устанавливается через web интерфейс
-JIRA password: admin
+* JIRA password: admin
   + устанавливается через web интерфейс
 
-Database: jira
-User: test
-Password: test
+* Database: jira
+* User: test
+* Password: test
   + устанавливается файлом pgsql/02_create-jira-pgdb.sql для docker-compose 
 **Requirements:**
 * JIRA database should only be accessible from JIRA
