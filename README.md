@@ -11,6 +11,7 @@ docker-compose -f jira.yml down
 docker rm -f C_jira C_nginx C_postgres; docker volume rm jiradockered_V_db-pgsql
 
 
+
 **Task:**
 
 Task scope
