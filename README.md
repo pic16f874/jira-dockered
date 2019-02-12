@@ -8,6 +8,7 @@ docker rm -f C_jira C_nginx C_postgres; docker volume rm jiradockered_V_db-pgsql
 **Task:**
 
 Task scope
+
 \* JIRA (latest version)
   + cptactionhank/atlassian-jira from docker hub
 \* JIRA external database (Postgres or MySql)
