@@ -27,6 +27,7 @@ Task scope
 * User: test
 * Password: test
   + устанавливается файлом pgsql/02_create-jira-pgdb.sql для docker-compose 
+
 **Requirements:**
 * JIRA database should only be accessible from JIRA
   + устанавливается файлом  pgsql/01_modify_pghba.sh для docker-compose
